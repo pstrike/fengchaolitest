@@ -6,6 +6,8 @@ public class Test {
 	String d;
 	String f;
 	
+	String h;
+	
 	public void test() {
 		
 	}
